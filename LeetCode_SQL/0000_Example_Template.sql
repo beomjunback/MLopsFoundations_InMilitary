@@ -3,9 +3,9 @@ LeetCode #0175: Combine Two Tables
 Difficulty: Easy
 Date: 2026-05-26
 
-[Query Performance & Optimization]
+[Query explanation]
 - Scan Type: Index Scan -> The query utilizes the clustered index on 'PersonId' rather than a full table scan.
-- Bottleneck Risk: High memory overhead if the Address table grows exponentially due to the LEFT JOIN materialization.
+- Bottleneck Risk(if exist): High memory overhead if the Address table grows exponentially due to the LEFT JOIN materialization.
 
 [AI Mentor Feedback]
 - Utilizing an outer join is correct here to prevent losing Person records that lack corresponding Address data.
