@@ -72,27 +72,7 @@ I_n =
 \end{bmatrix}
 $$
 
-#### Inverse of a $2 \times 2$ Matrix
-
-$$
-A =
-\begin{bmatrix}
-a_{11} & a_{12} \\
-a_{21} & a_{22}
-\end{bmatrix}
-$$
-
-$$
-A^{-1}
-=
-\frac{1}{a_{11}a_{22}-a_{12}a_{21}}
-\begin{bmatrix}
-a_{22} & -a_{12} \\
--a_{21} & a_{11}
-\end{bmatrix}
-$$
-
-#### Determinant
+#### Determinant of a $2 \times 2$ Matrix
 
 $$
 \det(A)=a_{11}a_{22}-a_{12}a_{21}
