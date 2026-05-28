@@ -214,7 +214,6 @@ $$
 ### Q1. Why is linear algebra important in machine learning?
 
 - **Answer**: Linear algebra is essential in machine learning because almost all machine learning data and models are represented using vectors and matrices. Input data is expressed as vectors in high-dimensional space, and models transform these vectors through matrix operations. Neural networks, regression models, and optimization algorithms all rely heavily on matrix multiplication, vector operations, and linear transformations. Without linear algebra, it would be impossible to efficiently represent, compute, and optimize machine learning systems.
-Q2. Why are pivots important when solving 
 
 ### Q2. Why are pivots important when solving linear systems?
 
