@@ -36,9 +36,11 @@ $$
 $$
 
 for every 
+
 $$
 u \in U
 $$
+
 The set of all linear combinations of vectors forms a subspace.
 
 ---
