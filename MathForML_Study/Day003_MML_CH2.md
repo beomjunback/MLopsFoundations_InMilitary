@@ -37,7 +37,7 @@ $$
 
 for every 
 $$
-(u \in U).
+u \in U
 $$
 The set of all linear combinations of vectors forms a subspace.
 
@@ -104,14 +104,7 @@ A basis is a set of vectors that is:
 
 Therefore,
 
-$$
-\text{Basis}
- = 
-
-\text{Linear Independence}
-+
-\text{Generating Set}
-$$
+$$ \text{Basis} = \text{Linear Independence} + \text{Generating Set} $$
 
 A basis provides the minimum set of vectors required to represent every vector in the space uniquely.
 
