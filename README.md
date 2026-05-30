@@ -1,6 +1,11 @@
 # 300-Day Challenge
 Daily Growth Log _ Building AI Infra & MLOps Foundations in the Military
 ## Day 001 ~ 050
+### Day 004 - 2026-05-30
+* Algorithm
+  * [3161_Block_Placement_Queries.py](./LeetCode_Algorithm/3161_Block_Placement_Queries.py)
+* CS & Book Study
+  * [Day004_MML_CH2.md](./MathForML_Study/Day004_MML_CH2.md)
 ### Day 003 - 2026-05-29
 * Algorithm
   * [0138_Copy_List_with_Random_Pointer.py](./LeetCode_Algorithm/0138_Copy_List_with_Random_Pointer.py)
