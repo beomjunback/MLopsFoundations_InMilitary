@@ -1,6 +1,12 @@
 # 300-Day Challenge
 Daily Growth Log _ Building AI Infra & MLOps Foundations in the Military
 ## Day 001 ~ 050
+### Day 005 - 2026-05-31
+* Algorithm
+  * [2126_Destroying_Asteroids.py](./LeetCode_Algorithm/2126_Destroying_Asteroids.py)
+* CS & Book Study
+  * [Day005_MML_CH2.md](./MathForML_Study/Day005_MML_CH2.md)
+---
 ### Day 004 - 2026-05-30
 * Algorithm
   * [3161_Block_Placement_Queries.py](./LeetCode_Algorithm/3161_Block_Placement_Queries.py)
