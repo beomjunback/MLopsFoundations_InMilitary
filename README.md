@@ -1,6 +1,12 @@
 # 300-Day Challenge
 Daily Growth Log _ Building AI Infra & MLOps Foundations in the Military
 ## Day 001 ~ 050
+### Day 006 - 2026-06-01
+* Algorithm
+  * [1081_Smallest_Subsequence_of_Distinct_Characters.py](./LeetCode_Algorithm/1081_Smallest_Subsequence_of_Distinct_Characters.py)
+* CS & Book Study
+  * [Day006_MML_CH2_END.md](./MathForML_Study/Day006_MML_CH2_END.md)
+---
 ### Day 005 - 2026-05-31
 * Algorithm
   * [2126_Destroying_Asteroids.py](./LeetCode_Algorithm/2126_Destroying_Asteroids.py)
