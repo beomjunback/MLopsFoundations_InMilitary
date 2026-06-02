@@ -1,6 +1,12 @@
 # 300-Day Challenge
 Daily Growth Log _ Building AI Infra & MLOps Foundations in the Military
 ## Day 001 ~ 050
+### Day 007 - 2026-06-02
+* Algorithm
+  * [3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.py](./LeetCode_Algorithm/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.py)
+* CS & Book Study
+  * [Day007_MML_CH3.md](./MathForML_Study/Day007_MML_CH3.md)
+---
 ### Day 006 - 2026-06-01
 * Algorithm
   * [1081_Smallest_Subsequence_of_Distinct_Characters.py](./LeetCode_Algorithm/1081_Smallest_Subsequence_of_Distinct_Characters.py)
